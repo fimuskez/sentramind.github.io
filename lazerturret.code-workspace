@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../lazerturret"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sentramind"
+	}
+}
